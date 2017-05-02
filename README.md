@@ -1,6 +1,11 @@
 # china post tracking  api
 China Post tracking API and webhook make it easy to integrate China Post Tracking function into your own project. Support APIs Client Libraries for PHP
 
+### API key
+
+In order to use this API, you need to generate a China Post Tracking  API key in the [TrackingMore](https://www.trackingmore.com).
+Apply for free use of API. https://www.trackingmore.com/apply-api.html
+
 ### List of Tracking Status
 
 String | Description 
