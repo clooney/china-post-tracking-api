@@ -48,4 +48,10 @@ Code | Description
 503	|Service Unavailable - The service is temporary unavailable (e.g. scheduled Platform Maintenance). Try again later.
 
 ------------------------------------------------------------------------------------------------------------------
-[TrackingMore](https://www.trackingmore.com) is a multiple carrier solutions. Developers can get tracking results from 410+ couriers by integrating trackingmore API.Check the courier code.
+[TrackingMore](https://www.trackingmore.com) is a multiple carrier solutions. Developers can get tracking results from 410+ couriers by integrating trackingmore API.Check the courier code.  use  China Post Tracking API of Trackingmore  allows eCommerce developers in any sizes to add package tracking fuction easily. Use [China Post Tracking API](https://www.trackingmore.com/china-post-tracking-api.html)  to:
+
+   *   Get China Post realtime tracking info of muti-carriers in one integration
+   *   Provide China Post shipment tracking experience like Amazon
+   *   Push China Post  notifications of package update with webhook
+   *   Verify China Post delivery exception before it is too late
+
