@@ -1,9 +1,9 @@
-# china post tracking  api
-China Post tracking API and webhook make it easy to integrate China Post Tracking function into your own project. Support APIs Client Libraries for PHP
+# S.F Express tracking  api
+S.F Express tracking API and webhook make it easy to integrate S.F Express Tracking function into your own project. Support APIs Client Libraries for PHP
 
 ### API key
 
-In order to use this API, you need to generate a China Post Tracking  API key in the [TrackingMore](https://www.trackingmore.com).
+In order to use this API, you need to generate a S.F Express Tracking  API key in the [TrackingMore](https://www.trackingmore.com).
 Apply for free use of API. https://www.trackingmore.com/apply-api.html
 
 ### List of Tracking Status
@@ -53,10 +53,10 @@ Code | Description
 503	|Service Unavailable - The service is temporary unavailable (e.g. scheduled Platform Maintenance). Try again later.
 
 ------------------------------------------------------------------------------------------------------------------
-[TrackingMore](https://www.trackingmore.com) is a multiple carrier solutions. Developers can get tracking results from 410+ couriers by integrating trackingmore API.Check the courier code.  use  China Post Tracking API of Trackingmore  allows eCommerce developers in any sizes to add package tracking fuction easily. Use [China Post Tracking API](https://www.trackingmore.com/china-post-tracking-api.html)  to:
+[TrackingMore](https://www.trackingmore.com) is a multiple carrier solutions. Developers can get tracking results from 410+ couriers by integrating trackingmore API.Check the courier code.  use  S.F Express Tracking API of Trackingmore  allows eCommerce developers in any sizes to add package tracking fuction easily. Use [S.F Express Tracking API](https://www.trackingmore.com/china-post-tracking-api.html)  to:
 
-   *   Get China Post realtime tracking info of muti-carriers in one integration
-   *   Provide China Post shipment tracking experience like Amazon
-   *   Push China Post  notifications of package update with webhook
-   *   Verify China Post delivery exception before it is too late
+   *   Get S.F Express realtime tracking info of muti-carriers in one integration
+   *   Provide S.F Express shipment tracking experience like Amazon
+   *   Push S.F Express  notifications of package update with webhook
+   *   Verify S.F Express delivery exception before it is too late
 
