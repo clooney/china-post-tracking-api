@@ -5,7 +5,7 @@ $track = new Trackingmore;
 $items = array(
     array(
 		'tracking_number' => 'RM131516216CN',
-		'carrier_code'    => 'china-post',
+		'carrier_code'    => 'aramex',
 		'title'          => 'iphone6',
 		'customer_name'   => 'charse chen',
 		'customer_email'  => 'chasechen@gmail.com',
@@ -14,7 +14,7 @@ $items = array(
 	),
 	array(
 		'tracking_number' => 'RM111516216CN',
-		'carrier_code'    => 'china-post',
+		'carrier_code'    => 'aramex',
 		'title'          => 'iphone6s',
 		'customer_name'   => 'clooney chen',
 		'customer_email'  => 'clooneychen@gmail.com',
