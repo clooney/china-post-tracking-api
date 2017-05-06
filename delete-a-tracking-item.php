@@ -2,6 +2,6 @@
 
 include("track.class.php");
 $track = new Trackingmore;
-$track = $track->deleteTrackingItem('aramex','RM131516216CN');
+$track = $track->deleteTrackingItem('china-post','RM131516216CN');
 
 ?>
