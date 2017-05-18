@@ -1,5 +1,5 @@
 # China Post tracking  api
-China Post tracking API and webhook make it easy to integrate S.F Express Tracking function into your own project. Support APIs Client Libraries for PHP
+China Post tracking API and webhook make it easy to integrate China Post Tracking function into your own project. Support APIs Client Libraries for PHP
 
 ### API key
 
