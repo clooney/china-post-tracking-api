@@ -1,9 +1,9 @@
 # TrackingMore: China Post Tracking API
-[China Post Tracking API](https://www.trackingmore.com/china-post-tracking-api.html) enables you to connect tracking info of China Post shipments into your system, improving shipment visibility. 
+[China Post Tracking API](https://www.trackingmore.com/china-post-tracking-api.html) integrates China Post shipment tracking details into your system, enhancing the transparency of parcel delivery.
 
-Besides China Post, TrackingMore supports shipment tracking across 1,200+ global carriers through a robust [multi-carrier shipment tracking API](https://www.trackingmore.com/tracking-api).
+TrackingMore also extends tracking capabilities to over 1,200 worldwide carriers through its robust [multi-carrier shipment tracking API](https://www.trackingmore.com/tracking-api).
 
-TrackingMore provides API compatibility with seven programming languages. Comprehensive documentation for setup and use is included within this repository to facilitate the integration process.
+With compatibility across seven programming languages, TrackingMore includes extensive documentation to streamline the setup and integration process for developers.
 
 ### Features
    *  Unified real-time tracking information for China Post shipments.
